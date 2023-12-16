@@ -11,5 +11,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 ```bash
 pip install -r requirements.txt
 ollama pull llama2
+unicorn app:app
 
 
