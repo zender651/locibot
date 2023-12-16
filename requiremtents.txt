@@ -1,0 +1,4 @@
+fastapi
+Ollama
+langchain
+uvicorn
