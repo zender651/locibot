@@ -1,7 +1,15 @@
-# locibot
-A local LLM using Ollama and LLam2 model which interacts in Langchain toolkit with FastAPI to create converstions.
-It easily solves the problem of local implementation of a LLM using Langchain and Ollama.
-Ollama sets the environment and pulls a particular model directly
-for Ollama install it using pip install -r requirements.txt
-then pull llama2 using Ollama pull llama2
+# Conversational Language Model App LociBot
+
+## Overview
+
+The Conversational Language Model App is a local implementation of a Language Model (LLM) using Ollama and LLam2. It seamlessly interacts with the Langchain toolkit and is powered by FastAPI, providing a solution for natural language conversations with an easy-to-use interface.
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required dependencies and pull the llama2 model using Ollama.
+
+```bash
+pip install -r requirements.txt
+ollama pull llama2
+
 
