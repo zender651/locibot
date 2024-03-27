@@ -12,4 +12,11 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 pip install -r requirements.txt
 ollama pull llama2
 
+```
+
+Once that is done set up a virtual environment in Python.
+
+Install the requirements.txt file
+
+run uvicorn command
 
