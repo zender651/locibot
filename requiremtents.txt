@@ -2,3 +2,6 @@ fastapi
 Ollama
 langchain
 uvicorn
+sentence-transformers
+langchain-community
+faiss-cpu
